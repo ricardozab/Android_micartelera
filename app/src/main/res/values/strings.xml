@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MiCartelera</string>
+    <string name="app_registrar">Registro</string>
+    <string name="title_activity_menu">menu</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_registrar">Registrar</string>
+    <string name="title_listar">Listar</string>
+
+
+</resources>
